@@ -12,7 +12,7 @@
 
 <div class="container">
     <a href="distancia/index.php" class="botao">Distância entre Pontos / Vetores</a>
-    <a href="#" class="botao">Ponto Médio</a>
+    <a href="pontomedio/index.php" class="botao">Ponto Médio</a>
     <a href="#" class="botao">Equação da Reta</a>
     <a href="#" class="botao">Circunferência</a>
 </div>
