@@ -15,6 +15,7 @@
     <a href="pontomedio/index.php" class="botao">Ponto Médio</a>
     <a href="#" class="botao">Equação da Reta</a>
     <a href="#" class="botao">Circunferência</a>
+    <a href="produto-vetorial/index.php" class="botao">Produto Vetorial</a>
 </div>
 
 <a href="../index.php" class="voltar">Voltar</a>
