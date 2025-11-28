@@ -13,7 +13,7 @@
 <div class="container">
     <a href="distancia/index.php" class="botao">Distância entre Pontos / Vetores</a>
     <a href="pontomedio/index.php" class="botao">Ponto Médio</a>
-    <a href="#" class="botao">Equação da Reta</a>
+    <a href="estudo-da-reta/index.php" class="botao">Estudo da Reta no R²</a>
     <a href="#" class="botao">Circunferência</a>
     <a href="produto-vetorial/index.php" class="botao">Produto Vetorial</a>
 </div>
