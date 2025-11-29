@@ -140,3 +140,25 @@ p {
 .destaque {
     font-size: 20px;
 }
+/* adição para contemplar outro tipo de design para os js */
+        #btn-explicacao {
+            display: block;
+            margin: 20px auto;
+            background: #0077cc;
+            color: #fff;
+            padding: 10px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            width: 230px;
+            text-align: center;
+        }
+
+        #explicacao-box {
+            display: none;
+            background: #fff;
+            max-width: 450px;
+            margin: 20px auto;
+            padding: 15px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+        }
